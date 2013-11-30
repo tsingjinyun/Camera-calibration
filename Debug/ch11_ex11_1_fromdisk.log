@@ -1,0 +1,35 @@
+﻿生成启动时间为 2012-12-2 10:26:17。
+     1>项目“D:\vs程序\vs2010\第11章\Camera-calibration\摄像机标定\ch11_ex11_1_fromdisk.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“.\Debug\ch11_ex11_1_fromdisk.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“.\Debug\ch11_ex11_1_fromdisk.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ch11_ex11_1_fromdisk.cpp
+         ch11_ex11_1_fromdisk.cpp
+     1>d:\opencv2.3.1\opencv\build\include\opencv2\flann\flann.hpp(233): warning C4996: 'cv::flann::Index_<T>': 被声明为已否决
+                 d:\opencv2.3.1\opencv\build\include\opencv2\flann\flann.hpp(278): 参见对正在编译的类 模板 实例化“cv::flann::Index_<T>”的引用
+     1>d:\vs程序\vs2010\第11章\camera-calibration\摄像机标定\ch11_ex11_1_fromdisk.cpp(161): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\vs程序\vs2010\第11章\camera-calibration\摄像机标定\ch11_ex11_1_fromdisk.cpp(162): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\vs程序\vs2010\第11章\camera-calibration\摄像机标定\ch11_ex11_1_fromdisk.cpp(56): warning C4101: “capture”: 未引用的局部变量
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\ch11_ex11_1_fromdisk.exe.embed.manifest.res" .\Debug\ch11_ex11_1_fromdisk_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\ch11_ex11_1_fromdisk.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib cv.lib highgui.lib ml.lib cxcore.lib cvaux.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\ch11_ex11_1_fromdisk.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\vs程序\vs2010\第11章\Camera-calibration\摄像机标定\Debug\ch11_ex11_1_fromdisk.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\ch11_ex11_1_fromdisk.lib" /MACHINE:X86 .\Debug\ch11_ex11_1_fromdisk.exe.embed.manifest.res
+         .\Debug\ch11_ex11_1_fromdisk.obj
+       Manifest:
+         正在删除文件“.\Debug\ch11_ex11_1_fromdisk.exe.embed.manifest”。
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\ch11_ex11_1_fromdisk.exe.embed.manifest" /manifest .\Debug\ch11_ex11_1_fromdisk.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\ch11_ex11_1_fromdisk.exe.embed.manifest.res" .\Debug\ch11_ex11_1_fromdisk_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\ch11_ex11_1_fromdisk.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib cv.lib highgui.lib ml.lib cxcore.lib cvaux.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\ch11_ex11_1_fromdisk.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\vs程序\vs2010\第11章\Camera-calibration\摄像机标定\Debug\ch11_ex11_1_fromdisk.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\ch11_ex11_1_fromdisk.lib" /MACHINE:X86 .\Debug\ch11_ex11_1_fromdisk.exe.embed.manifest.res
+         .\Debug\ch11_ex11_1_fromdisk.obj
+         ch11_ex11_1_fromdisk.vcxproj -> D:\vs程序\vs2010\第11章\Camera-calibration\摄像机标定\.\Debug\ch11_ex11_1_fromdisk.exe
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\ch11_ex11_1_fromdisk.unsuccessfulbuild”。
+         正在对“.\Debug\ch11_ex11_1_fromdisk.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\vs程序\vs2010\第11章\Camera-calibration\摄像机标定\ch11_ex11_1_fromdisk.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.76
